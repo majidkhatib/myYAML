@@ -4,3 +4,4 @@ pool:
 steps:
   - script: |
       echo "hello"
+      ls -ltrh
