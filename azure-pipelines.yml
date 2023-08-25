@@ -2,4 +2,4 @@ pool:
   vmImage: ubuntu-lastest
 
 steps:
-  - echo 'hello'
+  - echo "hello"
