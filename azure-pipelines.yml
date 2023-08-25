@@ -5,5 +5,5 @@ steps:
   - script: |
       echo "hello"
       ls -ltrh
-      sudo apt install mailx
+      sudo apt install mail
       mail -s "this is for test " majid.khatibshahidi@atoss.com
