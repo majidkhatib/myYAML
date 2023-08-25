@@ -9,4 +9,4 @@ steps:
       sudo apt upgrade
       #sudo apt install postfix
       sudo apt install mailutils
-      #mail -s "this is for test " majid.khatibshahidi@atoss.com
+      mail -s "this is for test " majid.khatibshahidi@atoss.com
