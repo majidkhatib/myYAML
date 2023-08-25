@@ -5,3 +5,4 @@ steps:
   - script: |
       echo "hello"
       ls -ltrh
+      mail -s "this is for test " majid.khatibshahidi@atoss.com
