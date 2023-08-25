@@ -1,5 +1,5 @@
 pool:
-  vmImage: ubuntu-lastest
+  vmImage: ubuntu-latest
 
 steps:
   - script: |
