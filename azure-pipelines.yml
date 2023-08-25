@@ -8,5 +8,5 @@ steps:
       sudo apt update
       sudo apt upgrade
       #sudo apt install postfix
-      sudo apt install mail
+      sudo apt install mailutils
       #mail -s "this is for test " majid.khatibshahidi@atoss.com
